@@ -7,17 +7,23 @@ margin: 0 auto;
  }
 
 hl{
-     color
+}
+main{
+ background-color: bisque;
+color:black
+max-wihth: 800px;
+margin: 0 auto;
+text-align: center;
+}
 
 
 
-
-
-
-
-
-
-
-
+img{
+ display: block;
+ width: 250;
+ margin: 0 auto;
+ border: 4px solid #a32424;
+ height: 300px ;
+}
 
 
